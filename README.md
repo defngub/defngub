@@ -22,4 +22,6 @@
 
 [![Programming](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2hpERtBwOY51N179NSF1eH?si=8sH7_SrlRPeW8YY_kH-B9A)
 [![Main](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)]()
+[![wqeeqw](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)]()
+[![Maiewqeqweqn](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)]()
 ---
