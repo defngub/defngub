@@ -18,6 +18,8 @@
 ---
 ### Spotify Playing 🎧
 
+[![Programming Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2hpERtBwOY51N179NSF1eH?si=8sH7_SrlRPeW8YY_kH-B9A)
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tv1czk8r5ar01xar2mvucmj29&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=tv1czk8r5ar01xar2mvucmj29&redirect=true)
 
 ---
