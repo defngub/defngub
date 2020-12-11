@@ -19,7 +19,7 @@
 
 ## Contact
 
-
+---
 <!-- markdownlint-disable MD033 -->
 
 <details>
