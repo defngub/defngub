@@ -1,6 +1,6 @@
 <h2> Hi, I'm SM! <img src="https://thumbs.gfycat.com/ComposedUnsungFeline.webp" width="50"></h2>
 
-- :male-technologist: Currently working as a freelance developer.
+- 👨‍💻 Currently working as a freelance developer.
 - :gift_heart: Author of multiple open source projects.
 - :moneybag: Looking for new clients who wants to work with me, [contact me](mailto:business@warengonzaga.co) please.
 - :coffee: Coffee lover, turning it into code, [you can buy me a coffee](https://buymeacoff.ee/warengonzaga)!
