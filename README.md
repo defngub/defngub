@@ -18,6 +18,7 @@
 
 
 ## Contact
+[![Telegram](https://img.shields.io/badge/telegram-%231877F2.svg?&style=for-the-badge&logo=telegram&logoColor=white)]
 
 ---
 <!-- markdownlint-disable MD033 -->
