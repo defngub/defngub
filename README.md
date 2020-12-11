@@ -24,7 +24,7 @@
 <!-- markdownlint-disable MD033 -->
 
 <details>
-    <summary>&#128240 <b>Latest Blogs Posts</b></summary><br/>
+    <summary>&#128073 <b>Latest Blogs Posts</b></summary><br/>
 
 <!-- BLOG-POST-LIST:START -->
 - [GitHub Codespaces](https://dev.to/warengonzaga/github-codespaces-1i8k)
