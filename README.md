@@ -18,7 +18,7 @@
 
 
 ## Contact
-[![Telegram](https://img.shields.io/badge/telegram-%231877F2.svg?&style=for-the-badge&logo=telegram&logoColor=white)]
+[![Telegram](https://img.shields.io/badge/telegram-%231877F2.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://simonemargio.im/blog/managepasswords/)
 
 ---
 <!-- markdownlint-disable MD033 -->
