@@ -30,7 +30,7 @@
 - [Password Managers](https://simonemargio.im/blog/managepasswords/)
 - [Always backup](https://simonemargio.im/blog/backup/)
 - [Fix Apple Watch battery life](https://simonemargio.im/blog/fixapplewatch/)
-- [https://simonemargio.im/blog/summer-reading/](https://simonemargio.im/blog/summer-reading/)
+- [Summer reading](https://simonemargio.im/blog/summer-reading/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
