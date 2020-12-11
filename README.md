@@ -1,7 +1,7 @@
 <h2> Hi, I'm SM! <img src="https://thumbs.gfycat.com/ComposedUnsungFeline.webp" width="50"></h2>
 
-- 👨‍💻 currently working as a freelance developer.
-- :books: learning everything about frontend and ackend technologies.
+- 👨‍💻 Currently working as a freelance developer.
+- :books: Learning everything about frontend and ackend technologies.
 - 🌱 Vegetarian and vegan cuisine lover.
 - :trophy: 2021 Goals: contribute and publish more open source projects.
 - :dart: Wasting my time to save other people's time.
